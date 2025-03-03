@@ -1,5 +1,5 @@
-# EDformer
-This is the source code for the AAAI2025 #691 manuscript "Inter-event Interval Microscopy for Event Cameras".
+# IEIM
+This is the source code for the manuscript "Inter-event Interval Microscopy for Event Cameras".
 
 ## Environment
 tifffile \
